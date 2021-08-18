@@ -6,12 +6,19 @@ export const dynasty = false; // true for dynasty leagues, false for redraft and
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to the NOCO's Finest Fantasy Football League! This is our website.</p>
+  <p>2021 marks NOCO's Finest 11th year as a league. Founded in 2011, NOCO's Finest began as a small 10 team redraft league. The league quickly grew to 12 teams and as of this year, 2021, the league is now a 2 keeper league.</p>
+  <p>Over the years we've seen a few league members leave, and welcomed new ones. The league is currently the best it's ever been with the 12 current members.</p>
+  <p>Over the 10+ years of the league, we have had 5 different champions.</p>
+  <p>2011 - Tom Towey</p>
+  <p>2012 - Kevin Newbern</p>
+  <p>2013 - Tom Towey</p>
+  <p>2014 - Kevin Newbern</p>
+  <p>2015 - David Owens</p>
+  <p>2016 - Baker Bros</p>
+  <p>2017 - Pete Smith</p>
+  <p>2018 - Baker Bros</p>
+  <p>2019 - Kevin Newbern</p>
 `;
 
 /*   STEP 3   */
