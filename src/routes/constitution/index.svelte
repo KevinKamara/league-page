@@ -11,6 +11,7 @@
     let five, fiveOne;
     let six, sixOne, sixTwo, sixThree;
     let seven, sevenOne, sevenTwo, sevenThree;
+    let eight
 
     const goToSection = (section) => {
         const top = section.getBoundingClientRect().top;
