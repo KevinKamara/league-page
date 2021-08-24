@@ -223,3 +223,5 @@
  <p>If the trade is determined unfair based on the league vote, the commissioners can reverse the trade on the app/site.</p>
    
 </div>
+ },
+]
