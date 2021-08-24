@@ -219,6 +219,5 @@
     <p>If the trade is suspicious, a poll will be created in GroupMe, text, etc., and voted on by the league.</p>
     <p>If the trade is determined unfair based on the league vote, the commissioners can reverse the trade on the app/site.</p>
    
-</div>
  },
 ]
