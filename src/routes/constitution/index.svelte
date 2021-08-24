@@ -205,22 +205,19 @@
 			<li>If Team A trades Player A to Team B, Team B will have a round 4 penalty next year if the player is kept.</li>
     </ul>
 
+    <h2 class="sectionHeading" bind:this={seven}>Section 7 Keepers</h2>
     <p>Keeper Length</p>
-    <ul>
     <p>Starting with the 2021 season, NOCO’s Finest managers can only keep players for a MAX of 3 years.</p> 
     <p>The commissioners will track how long a player has been kept.</p>
     <p>After 3 years of being kept by the SAME team, a player can no longer be kept by that team.</p>
     <p>If a player is traded to a NEW team, the # of years kept restarts for that new team.</p>
     <p>EXAMPLE: If I keep Alvin Kamara for 3 more years, or trade him before then, whatever team takes him at that point will get a new 3 years to keep him.</p>
-    </ul>
 	 
-		
-
- <h2 class="sectionHeading" bind:this={eight}>Section 8 Trade Review Period</h2>
- <p>Starting with the 2021 season, trades will go through as soon as they are accepted on the site/app.</p> 
- <p>This means there will no longer be a 24 hour “review/veto” period on the app/site.</p>
- <p>If the trade is suspicious, a poll will be created in GroupMe, text, etc., and voted on by the league.</p>
- <p>If the trade is determined unfair based on the league vote, the commissioners can reverse the trade on the app/site.</p>
+    <h2 class="sectionHeading" bind:this={eight}>Section 8 Trade Review Period</h2>
+    <p>Starting with the 2021 season, trades will go through as soon as they are accepted on the site/app.</p> 
+    <p>This means there will no longer be a 24 hour “review/veto” period on the app/site.</p>
+    <p>If the trade is suspicious, a poll will be created in GroupMe, text, etc., and voted on by the league.</p>
+    <p>If the trade is determined unfair based on the league vote, the commissioners can reverse the trade on the app/site.</p>
    
 </div>
  },
