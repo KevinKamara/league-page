@@ -118,7 +118,7 @@
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: Keepers</h3>
 	
-   <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 8: Trade Review Period</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(eight)}>Section 8: Trade Review Period</h3>
     
     <hr />
     
@@ -127,9 +127,9 @@
     <p>Failure to pay your league fee is immediate expulsion from the league.</p>
     <p>Collusion:</p>
     	<ul>
-		<li>Collusion is working with other manager(s)/team(s) to purposefully make their team better, while making your team worse, so that they might win the league. This includes exchanging of money to one team or another, so they purposefully lose, trade you all their players, etc.<li>
+		<li>Collusion is working with other manager(s)/team(s) to purposefully make their team better, while making your team worse, so that they might win the league. This includes exchanging of money to one team or another, so they purposefully lose, trade you all their players, etc.</li>
 
-		<li>Collusion will not be tolerated and if prove, you will be banned from the league.<li>
+		<li>Collusion will not be tolerated and if prove, you will be banned from the league.</li>
     
   <h2 class="sectionHeading" bind:this={two}>Section 2 League Scoring / Roster Settings</h2>
     <p>16 Total Players</p>
